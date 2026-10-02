@@ -1,0 +1,6 @@
+{
+  "name": "CampusCommute - Day Scholar Transit Hub",
+  "description": "Daily travel assistant for day scholar college students featuring live transit radar, class timetable departure sync, student carpool board, commuter pass wallet, and crowdsourced delay alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
